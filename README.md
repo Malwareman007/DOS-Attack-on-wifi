@@ -1,4 +1,5 @@
 # # For educational purposes only
+# I AM NOT RESPONSIBLE FOR YOU DOING DUMB STUFF.
 # DO NOT USE THIS TO COMMIT CRIME.
 # Warning: This script is for educational purposes only.  Do not use against any network that you don't own or have authorization to test.
 # Don't use for distruction or for revenge.
