@@ -1,5 +1,5 @@
 # # For educational purposes only
-# DOS-Attack-on-wifi
+# DO NOT USE THIS TO COMMIT CRIME.
 # Warning: This script is for educational purposes only.  Do not use against any network that you don't own or have authorization to test.
 # Don't use for distruction or for revenge.
 # This section contain three different way to attack any wifi.
